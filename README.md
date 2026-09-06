@@ -1,4 +1,4 @@
-<img src="docs/logo.svg" width="80" />
+<img src="docs/logo.png" width="180" alt="CoPaila logo" />
 
 # CoPaila Carbon Backend
 
